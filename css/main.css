@@ -64,4 +64,18 @@ html {
     display: none;
   }
 
+  .book-ends {
+    background-color: #fff;
+    color: #000;
+    border: #fff;
+  }
+
+  .inset-img {
+    border-color: #000;
+  }
+
+  .chapter-details {
+    border: #fff;
+  }
+
 }
